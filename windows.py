@@ -1,0 +1,2 @@
+# coding:gbk
+print('ÔÙ¼ûwindows!')
