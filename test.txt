@@ -1,3 +1,6 @@
-
-B
 this is git test
+
+你觉得git好用还是svn好用
+
+我觉得git功能强大
+svn使用方便
