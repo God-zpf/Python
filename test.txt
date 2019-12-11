@@ -4,3 +4,5 @@ this is git test
 
 我觉得git功能强大
 svn使用方便
+
+jack -- jack1
